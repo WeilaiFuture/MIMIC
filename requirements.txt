@@ -1,0 +1,24 @@
+# Core dependencies
+torch>=1.10.0
+torchvision>=0.11.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+tqdm>=4.62.0
+requests>=2.26.0
+pydantic>=1.8.0
+
+# OCR engines
+paddlepaddle>=2.3.0
+paddleocr>=2.4.0
+easyocr>=1.4.0
+python-doctr>=0.3.0
+
+# Image processing
+scipy>=1.7.0
+scikit-image>=0.18.0
+
+# Utilities
+python-multipart>=0.0.5
+aiofiles>=0.7.0
